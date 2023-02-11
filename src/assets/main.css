@@ -1,0 +1,35 @@
+@import './base.css';
+
+#app {
+ display: flex;
+ flex-direction: column;
+ max-height: 100vh;  
+}
+
+a,
+a:visited {
+  color: var(--color-text);
+}
+
+a:hover {
+  color: var(--color-gray);
+}
+
+strong {
+  font-weight: bold;
+}
+
+address {
+  font-style: normal;
+}
+
+@media (min-width: 1024px) {
+  body {
+    display: flex;
+  }
+}
+
+.inline-flex {
+  display: inline-flex;
+  align-items: center;
+}
