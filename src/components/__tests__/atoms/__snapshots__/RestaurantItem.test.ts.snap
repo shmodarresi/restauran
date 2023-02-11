@@ -12,6 +12,7 @@ VueWrapper {
       data-v-app=""
     >
       <li
+        class=""
         data-v-930efbff=""
       >
         <h2
@@ -125,6 +126,7 @@ Germany
       "components": null,
       "ctx": {
         "VTU_COMPONENT": {
+          "isSelected": false,
           "item": {
             "display_phone": "+49 40 57283299",
             "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -154,6 +156,7 @@ Germany",
           "__v_isRef": true,
           "__v_isShallow": false,
           "_rawValue": {
+            "isSelected": false,
             "item": {
               "display_phone": "+49 40 57283299",
               "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -176,6 +179,7 @@ Germany",
             },
           },
           "_value": {
+            "isSelected": false,
             "item": {
               "display_phone": "+49 40 57283299",
               "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -246,6 +250,7 @@ Germany",
       "provides": {},
       "proxy": {
         "VTU_COMPONENT": {
+          "isSelected": false,
           "item": {
             "display_phone": "+49 40 57283299",
             "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -270,6 +275,7 @@ Germany",
       },
       "refs": {
         "VTU_COMPONENT": {
+          "isSelected": false,
           "item": {
             "display_phone": "+49 40 57283299",
             "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -331,6 +337,7 @@ Germany",
       "setupContext": null,
       "setupState": {
         "VTU_COMPONENT": {
+          "isSelected": false,
           "item": {
             "display_phone": "+49 40 57283299",
             "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -373,6 +380,7 @@ Germany",
             "__v_skip": 4,
             "_isMockFunction": 0,
             "constructor": 0,
+            "isSelected": 3,
             "item": 3,
             "toJSON": 0,
             Symbol(Symbol.toStringTag): 0,
@@ -424,6 +432,7 @@ Germany",
             },
           },
           "ctx": {
+            "isSelected": false,
             "item": {
               "display_phone": "+49 40 57283299",
               "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -465,6 +474,9 @@ Germany",
               Set {
                 [Circular],
               },
+              Set {
+                [Circular],
+              },
             ],
             "fn": [Function],
             "onTrack": undefined,
@@ -485,6 +497,7 @@ Germany",
           "next": null,
           "parent": [Circular],
           "props": {
+            "isSelected": false,
             "item": {
               "display_phone": "+49 40 57283299",
               "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -509,6 +522,11 @@ Germany",
           "propsDefaults": {},
           "propsOptions": [
             {
+              "isSelected": {
+                "0": true,
+                "1": true,
+                "type": [Function],
+              },
               "item": {
                 "0": false,
                 "1": true,
@@ -516,10 +534,13 @@ Germany",
                 "type": [Function],
               },
             },
-            [],
+            [
+              "isSelected",
+            ],
           ],
           "provides": {},
           "proxy": {
+            "isSelected": false,
             "item": {
               "display_phone": "+49 40 57283299",
               "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -556,6 +577,9 @@ Germany",
                 "active": true,
                 "allowRecurse": true,
                 "deps": [
+                  Set {
+                    [Circular],
+                  },
                   Set {
                     [Circular],
                   },
@@ -1383,6 +1407,7 @@ Germany,
             ],
             "dynamicProps": null,
             "el": <li
+              class=""
               data-v-930efbff=""
             >
               <h2
@@ -1420,8 +1445,10 @@ Germany
               </address>
             </li>,
             "key": null,
-            "patchFlag": 0,
-            "props": null,
+            "patchFlag": 2,
+            "props": {
+              "class": "",
+            },
             "ref": null,
             "scopeId": "data-v-930efbff",
             "shapeFlag": 17,
@@ -1448,6 +1475,9 @@ Germany
               },
             },
             "props": {
+              "isSelected": {
+                "type": [Function],
+              },
               "item": {
                 "required": true,
                 "type": [Function],
@@ -1467,6 +1497,7 @@ Germany
         "dynamicChildren": null,
         "dynamicProps": null,
         "el": <li
+          class=""
           data-v-930efbff=""
         >
           <h2
@@ -1555,6 +1586,9 @@ Germany",
             },
           },
           "props": {
+            "isSelected": {
+              "type": [Function],
+            },
             "item": {
               "required": true,
               "type": [Function],
@@ -1616,6 +1650,7 @@ Germany",
         "dynamicChildren": null,
         "dynamicProps": null,
         "el": <li
+          class=""
           data-v-930efbff=""
         >
           <h2
@@ -1870,6 +1905,7 @@ Germany
     [Function],
   ],
   "componentVM": {
+    "isSelected": false,
     "item": {
       "display_phone": "+49 40 57283299",
       "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -1894,6 +1930,7 @@ Germany",
   "isDisabled": [Function],
   "rootVM": {
     "VTU_COMPONENT": {
+      "isSelected": false,
       "item": {
         "display_phone": "+49 40 57283299",
         "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -1917,6 +1954,7 @@ Germany",
     },
   },
   "wrapperElement": <li
+    class=""
     data-v-930efbff=""
   >
     <h2

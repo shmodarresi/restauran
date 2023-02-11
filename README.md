@@ -35,5 +35,5 @@ To install and run the project, follow these steps:
 1. Navigate to the project directory
 2. Run `yarn install` or `npm install` to install dependencies
 3. Run `yarn dev` or `npm dev` to start the project in development mode
-4. Run `yarn test:unit` or `npm test:unit` to run the tests in watch mode
+4. Run `yarn test` or `npm test` to run the tests in watch mode
 

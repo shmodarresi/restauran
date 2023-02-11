@@ -9,13 +9,16 @@ export default defineComponent({
     item: {
       type: Object as PropType<RestaurantListItem>,
       required: true
+    },
+    isSelected: {
+      type: Boolean
     }
   },
   components: { IconMarker }
 });
 </script>
 <template>
-  <li>
+  <li :class="{ isSelected }">
     <h2>{{ item.name }}</h2>
     <address>
       <IconMarker />
@@ -29,5 +32,9 @@ li {
   cursor: pointer;
   padding: 0.5rem 1rem;
   border-bottom: solid 1px var(--color-border);
+}
+
+li.isSelected {
+  background-color: var(--color-hover);
 }
 </style>

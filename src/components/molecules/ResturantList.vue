@@ -11,12 +11,17 @@ export default defineComponent({
       required: true
     }
   },
+  data() {
+    return { selectedId: this.restaurants[0].id };
+  },
   mounted() {
     this.restaurants;
+    this.selectedId;
   },
   methods: {
     handleRestaurantClick(id: string) {
       this.$emit('restaurantClick', id);
+      this.selectedId = id;
     }
   },
   components: { RestaurantItem }
@@ -28,6 +33,7 @@ export default defineComponent({
       v-for="resturant in restaurants"
       :item="resturant"
       :key="resturant.id"
+      :is-selected="resturant.id === selectedId"
       @click="handleRestaurantClick(resturant.id)"
     />
   </ul>

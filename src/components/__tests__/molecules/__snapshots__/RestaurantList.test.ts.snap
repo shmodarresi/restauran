@@ -14,6 +14,7 @@ VueWrapper {
       <ul>
         
         <li
+          class="isSelected"
           data-v-930efbff=""
         >
           <h2
@@ -51,6 +52,7 @@ Germany
           </address>
         </li>
         <li
+          class=""
           data-v-930efbff=""
         >
           <h2
@@ -207,6 +209,7 @@ Germany",
               "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
             },
           ],
+          "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
         },
       },
       "da": null,
@@ -258,6 +261,7 @@ Germany",
                 "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
               },
             ],
+            "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
           },
           "_value": {
             "handleRestaurantClick": [Function],
@@ -302,6 +306,7 @@ Germany",
                 "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
               },
             ],
+            "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
           },
           "dep": undefined,
         },
@@ -394,6 +399,7 @@ Germany",
               "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
             },
           ],
+          "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
         },
       },
       "refs": {
@@ -440,6 +446,7 @@ Germany",
               "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
             },
           ],
+          "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
         },
       },
       "render": [Function],
@@ -523,6 +530,7 @@ Germany",
               "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
             },
           ],
+          "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
         },
       },
       "slots": {},
@@ -547,6 +555,7 @@ Germany",
             "constructor": 0,
             "handleRestaurantClick": 4,
             "restaurants": 3,
+            "selectedId": 2,
             "toJSON": 0,
             Symbol(Symbol.toStringTag): 0,
           },
@@ -601,6 +610,9 @@ Germany",
                 },
               },
               "props": {
+                "isSelected": {
+                  "type": [Function],
+                },
                 "item": {
                   "required": true,
                   "type": [Function],
@@ -652,15 +664,21 @@ Germany",
                 "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
               },
             ],
+            "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
           },
           "da": null,
-          "data": {},
+          "data": {
+            "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
+          },
           "directives": null,
           "ec": null,
           "effect": ReactiveEffect {
             "active": true,
             "allowRecurse": true,
             "deps": [
+              Set {
+                [Circular],
+              },
               Set {
                 [Circular],
               },
@@ -799,6 +817,7 @@ Germany",
                 "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
               },
             ],
+            "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
           },
           "refs": {},
           "render": [Function],
@@ -815,6 +834,9 @@ Germany",
                 "active": true,
                 "allowRecurse": true,
                 "deps": [
+                  Set {
+                    [Circular],
+                  },
                   Set {
                     [Circular],
                   },
@@ -868,6 +890,7 @@ Germany",
                     "component": {
                       "a": null,
                       "accessCache": {
+                        "isSelected": 3,
                         "item": 3,
                       },
                       "appContext": {
@@ -919,6 +942,7 @@ Germany",
                         },
                       },
                       "ctx": {
+                        "isSelected": true,
                         "item": {
                           "display_phone": "+49 40 57283299",
                           "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -960,6 +984,9 @@ Germany",
                           Set {
                             [Circular],
                           },
+                          Set {
+                            [Circular],
+                          },
                         ],
                         "fn": [Function],
                         "onTrack": undefined,
@@ -980,6 +1007,7 @@ Germany",
                       "next": null,
                       "parent": [Circular],
                       "props": {
+                        "isSelected": true,
                         "item": {
                           "display_phone": "+49 40 57283299",
                           "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -1004,6 +1032,11 @@ Germany",
                       "propsDefaults": {},
                       "propsOptions": [
                         {
+                          "isSelected": {
+                            "0": true,
+                            "1": true,
+                            "type": [Function],
+                          },
                           "item": {
                             "0": false,
                             "1": true,
@@ -1011,10 +1044,13 @@ Germany",
                             "type": [Function],
                           },
                         },
-                        [],
+                        [
+                          "isSelected",
+                        ],
                       ],
                       "provides": {},
                       "proxy": {
+                        "isSelected": true,
                         "item": {
                           "display_phone": "+49 40 57283299",
                           "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -1051,6 +1087,9 @@ Germany",
                             "active": true,
                             "allowRecurse": true,
                             "deps": [
+                              Set {
+                                [Circular],
+                              },
                               Set {
                                 [Circular],
                               },
@@ -1879,6 +1918,7 @@ Germany,
                         ],
                         "dynamicProps": null,
                         "el": <li
+                          class="isSelected"
                           data-v-930efbff=""
                         >
                           <h2
@@ -1916,8 +1956,9 @@ Germany
                           </address>
                         </li>,
                         "key": null,
-                        "patchFlag": 16,
+                        "patchFlag": 18,
                         "props": {
+                          "class": "isSelected",
                           "onClick": [Function],
                         },
                         "ref": null,
@@ -1946,6 +1987,9 @@ Germany
                           },
                         },
                         "props": {
+                          "isSelected": {
+                            "type": [Function],
+                          },
                           "item": {
                             "required": true,
                             "type": [Function],
@@ -1965,9 +2009,11 @@ Germany
                     "dynamicChildren": [],
                     "dynamicProps": [
                       "item",
+                      "is-selected",
                       "onClick",
                     ],
                     "el": <li
+                      class="isSelected"
                       data-v-930efbff=""
                     >
                       <h2
@@ -2007,6 +2053,7 @@ Germany
                     "key": "g3jk6ppJc_NdKKhv1JGa7w",
                     "patchFlag": 8,
                     "props": {
+                      "is-selected": true,
                       "item": {
                         "display_phone": "+49 40 57283299",
                         "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -2052,6 +2099,9 @@ Germany",
                         },
                       },
                       "props": {
+                        "isSelected": {
+                          "type": [Function],
+                        },
                         "item": {
                           "required": true,
                           "type": [Function],
@@ -2069,6 +2119,7 @@ Germany",
                     "component": {
                       "a": null,
                       "accessCache": {
+                        "isSelected": 3,
                         "item": 3,
                       },
                       "appContext": {
@@ -2120,6 +2171,7 @@ Germany",
                         },
                       },
                       "ctx": {
+                        "isSelected": false,
                         "item": {
                           "display_phone": "+49 40 35906720",
                           "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -2160,6 +2212,9 @@ Germany",
                           Set {
                             [Circular],
                           },
+                          Set {
+                            [Circular],
+                          },
                         ],
                         "fn": [Function],
                         "onTrack": undefined,
@@ -2180,6 +2235,7 @@ Germany",
                       "next": null,
                       "parent": [Circular],
                       "props": {
+                        "isSelected": false,
                         "item": {
                           "display_phone": "+49 40 35906720",
                           "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -2203,6 +2259,11 @@ Germany",
                       "propsDefaults": {},
                       "propsOptions": [
                         {
+                          "isSelected": {
+                            "0": true,
+                            "1": true,
+                            "type": [Function],
+                          },
                           "item": {
                             "0": false,
                             "1": true,
@@ -2210,10 +2271,13 @@ Germany",
                             "type": [Function],
                           },
                         },
-                        [],
+                        [
+                          "isSelected",
+                        ],
                       ],
                       "provides": {},
                       "proxy": {
+                        "isSelected": false,
                         "item": {
                           "display_phone": "+49 40 35906720",
                           "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -2249,6 +2313,9 @@ Germany",
                             "active": true,
                             "allowRecurse": true,
                             "deps": [
+                              Set {
+                                [Circular],
+                              },
                               Set {
                                 [Circular],
                               },
@@ -3072,6 +3139,7 @@ Germany,
                         ],
                         "dynamicProps": null,
                         "el": <li
+                          class=""
                           data-v-930efbff=""
                         >
                           <h2
@@ -3108,8 +3176,9 @@ Germany
                           </address>
                         </li>,
                         "key": null,
-                        "patchFlag": 16,
+                        "patchFlag": 18,
                         "props": {
+                          "class": "",
                           "onClick": [Function],
                         },
                         "ref": null,
@@ -3138,6 +3207,9 @@ Germany
                           },
                         },
                         "props": {
+                          "isSelected": {
+                            "type": [Function],
+                          },
                           "item": {
                             "required": true,
                             "type": [Function],
@@ -3157,9 +3229,11 @@ Germany
                     "dynamicChildren": [],
                     "dynamicProps": [
                       "item",
+                      "is-selected",
                       "onClick",
                     ],
                     "el": <li
+                      class=""
                       data-v-930efbff=""
                     >
                       <h2
@@ -3198,6 +3272,7 @@ Germany
                     "key": "Wv-vnqZJFCKw3B7zOhGXqA",
                     "patchFlag": 8,
                     "props": {
+                      "is-selected": false,
                       "item": {
                         "display_phone": "+49 40 35906720",
                         "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -3242,6 +3317,9 @@ Germany",
                         },
                       },
                       "props": {
+                        "isSelected": {
+                          "type": [Function],
+                        },
                         "item": {
                           "required": true,
                           "type": [Function],
@@ -3297,6 +3375,7 @@ Germany",
                         "@@__IMMUTABLE_RECORD__@@": 0,
                         "_isMockFunction": 0,
                         "constructor": 0,
+                        "isSelected": 3,
                         "item": 3,
                         "toJSON": 0,
                         Symbol(Symbol.toStringTag): 0,
@@ -3350,6 +3429,7 @@ Germany",
                         },
                       },
                       "ctx": {
+                        "isSelected": true,
                         "item": {
                           "display_phone": "+49 40 57283299",
                           "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -3391,6 +3471,9 @@ Germany",
                           Set {
                             [Circular],
                           },
+                          Set {
+                            [Circular],
+                          },
                         ],
                         "fn": [Function],
                         "onTrack": undefined,
@@ -3411,6 +3494,7 @@ Germany",
                       "next": null,
                       "parent": [Circular],
                       "props": {
+                        "isSelected": true,
                         "item": {
                           "display_phone": "+49 40 57283299",
                           "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -3435,6 +3519,11 @@ Germany",
                       "propsDefaults": {},
                       "propsOptions": [
                         {
+                          "isSelected": {
+                            "0": true,
+                            "1": true,
+                            "type": [Function],
+                          },
                           "item": {
                             "0": false,
                             "1": true,
@@ -3442,10 +3531,13 @@ Germany",
                             "type": [Function],
                           },
                         },
-                        [],
+                        [
+                          "isSelected",
+                        ],
                       ],
                       "provides": {},
                       "proxy": {
+                        "isSelected": true,
                         "item": {
                           "display_phone": "+49 40 57283299",
                           "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -3482,6 +3574,9 @@ Germany",
                             "active": true,
                             "allowRecurse": true,
                             "deps": [
+                              Set {
+                                [Circular],
+                              },
                               Set {
                                 [Circular],
                               },
@@ -4317,6 +4412,7 @@ Germany,
                         ],
                         "dynamicProps": null,
                         "el": <li
+                          class="isSelected"
                           data-v-930efbff=""
                         >
                           <h2
@@ -4354,8 +4450,9 @@ Germany
                           </address>
                         </li>,
                         "key": null,
-                        "patchFlag": 16,
+                        "patchFlag": 18,
                         "props": {
+                          "class": "isSelected",
                           "onClick": [Function],
                         },
                         "ref": null,
@@ -4384,6 +4481,9 @@ Germany
                           },
                         },
                         "props": {
+                          "isSelected": {
+                            "type": [Function],
+                          },
                           "item": {
                             "required": true,
                             "type": [Function],
@@ -4403,9 +4503,11 @@ Germany
                     "dynamicChildren": [],
                     "dynamicProps": [
                       "item",
+                      "is-selected",
                       "onClick",
                     ],
                     "el": <li
+                      class="isSelected"
                       data-v-930efbff=""
                     >
                       <h2
@@ -4445,6 +4547,7 @@ Germany
                     "key": "g3jk6ppJc_NdKKhv1JGa7w",
                     "patchFlag": 8,
                     "props": {
+                      "is-selected": true,
                       "item": {
                         "display_phone": "+49 40 57283299",
                         "id": "g3jk6ppJc_NdKKhv1JGa7w",
@@ -4490,6 +4593,9 @@ Germany",
                         },
                       },
                       "props": {
+                        "isSelected": {
+                          "type": [Function],
+                        },
                         "item": {
                           "required": true,
                           "type": [Function],
@@ -4511,6 +4617,7 @@ Germany",
                         "@@__IMMUTABLE_RECORD__@@": 0,
                         "_isMockFunction": 0,
                         "constructor": 0,
+                        "isSelected": 3,
                         "item": 3,
                         "toJSON": 0,
                         Symbol(Symbol.toStringTag): 0,
@@ -4564,6 +4671,7 @@ Germany",
                         },
                       },
                       "ctx": {
+                        "isSelected": false,
                         "item": {
                           "display_phone": "+49 40 35906720",
                           "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -4604,6 +4712,9 @@ Germany",
                           Set {
                             [Circular],
                           },
+                          Set {
+                            [Circular],
+                          },
                         ],
                         "fn": [Function],
                         "onTrack": undefined,
@@ -4624,6 +4735,7 @@ Germany",
                       "next": null,
                       "parent": [Circular],
                       "props": {
+                        "isSelected": false,
                         "item": {
                           "display_phone": "+49 40 35906720",
                           "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -4647,6 +4759,11 @@ Germany",
                       "propsDefaults": {},
                       "propsOptions": [
                         {
+                          "isSelected": {
+                            "0": true,
+                            "1": true,
+                            "type": [Function],
+                          },
                           "item": {
                             "0": false,
                             "1": true,
@@ -4654,10 +4771,13 @@ Germany",
                             "type": [Function],
                           },
                         },
-                        [],
+                        [
+                          "isSelected",
+                        ],
                       ],
                       "provides": {},
                       "proxy": {
+                        "isSelected": false,
                         "item": {
                           "display_phone": "+49 40 35906720",
                           "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -4693,6 +4813,9 @@ Germany",
                             "active": true,
                             "allowRecurse": true,
                             "deps": [
+                              Set {
+                                [Circular],
+                              },
                               Set {
                                 [Circular],
                               },
@@ -5523,6 +5646,7 @@ Germany,
                         ],
                         "dynamicProps": null,
                         "el": <li
+                          class=""
                           data-v-930efbff=""
                         >
                           <h2
@@ -5559,8 +5683,9 @@ Germany
                           </address>
                         </li>,
                         "key": null,
-                        "patchFlag": 16,
+                        "patchFlag": 18,
                         "props": {
+                          "class": "",
                           "onClick": [Function],
                         },
                         "ref": null,
@@ -5589,6 +5714,9 @@ Germany
                           },
                         },
                         "props": {
+                          "isSelected": {
+                            "type": [Function],
+                          },
                           "item": {
                             "required": true,
                             "type": [Function],
@@ -5608,9 +5736,11 @@ Germany
                     "dynamicChildren": [],
                     "dynamicProps": [
                       "item",
+                      "is-selected",
                       "onClick",
                     ],
                     "el": <li
+                      class=""
                       data-v-930efbff=""
                     >
                       <h2
@@ -5649,6 +5779,7 @@ Germany
                     "key": "Wv-vnqZJFCKw3B7zOhGXqA",
                     "patchFlag": 8,
                     "props": {
+                      "is-selected": false,
                       "item": {
                         "display_phone": "+49 40 35906720",
                         "id": "Wv-vnqZJFCKw3B7zOhGXqA",
@@ -5693,6 +5824,9 @@ Germany",
                         },
                       },
                       "props": {
+                        "isSelected": {
+                          "type": [Function],
+                        },
                         "item": {
                           "required": true,
                           "type": [Function],
@@ -5729,6 +5863,7 @@ Germany",
             "el": <ul>
               
               <li
+                class="isSelected"
                 data-v-930efbff=""
               >
                 <h2
@@ -5766,6 +5901,7 @@ Germany
                 </address>
               </li>
               <li
+                class=""
                 data-v-930efbff=""
               >
                 <h2
@@ -5835,6 +5971,9 @@ Germany
                   },
                 },
                 "props": {
+                  "isSelected": {
+                    "type": [Function],
+                  },
                   "item": {
                     "required": true,
                     "type": [Function],
@@ -5843,6 +5982,7 @@ Germany
                 "render": [Function],
               },
             },
+            "data": [Function],
             "methods": {
               "handleRestaurantClick": [Function],
             },
@@ -5869,6 +6009,7 @@ Germany
         "el": <ul>
           
           <li
+            class="isSelected"
             data-v-930efbff=""
           >
             <h2
@@ -5906,6 +6047,7 @@ Germany
             </address>
           </li>
           <li
+            class=""
             data-v-930efbff=""
           >
             <h2
@@ -6019,6 +6161,9 @@ Germany",
                 },
               },
               "props": {
+                "isSelected": {
+                  "type": [Function],
+                },
                 "item": {
                   "required": true,
                   "type": [Function],
@@ -6027,6 +6172,7 @@ Germany",
               "render": [Function],
             },
           },
+          "data": [Function],
           "methods": {
             "handleRestaurantClick": [Function],
           },
@@ -6095,6 +6241,7 @@ Germany",
         "el": <ul>
           
           <li
+            class="isSelected"
             data-v-930efbff=""
           >
             <h2
@@ -6132,6 +6279,7 @@ Germany
             </address>
           </li>
           <li
+            class=""
             data-v-930efbff=""
           >
             <h2
@@ -6429,6 +6577,7 @@ Germany",
         "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
       },
     ],
+    "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
   },
   "isDisabled": [Function],
   "rootVM": {
@@ -6475,11 +6624,13 @@ Germany",
           "url": "https://www.yelp.com/biz/kleinhuis-bistro-und-weinhandel-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
         },
       ],
+      "selectedId": "g3jk6ppJc_NdKKhv1JGa7w",
     },
   },
   "wrapperElement": <ul>
     
     <li
+      class="isSelected"
       data-v-930efbff=""
     >
       <h2
@@ -6517,6 +6668,7 @@ Germany
       </address>
     </li>
     <li
+      class=""
       data-v-930efbff=""
     >
       <h2

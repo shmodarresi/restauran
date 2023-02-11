@@ -54,89 +54,98 @@ VueWrapper {
           class="main-info"
           data-v-500ec100=""
         >
-          <h2
+          <section
+            class="main-text"
             data-v-500ec100=""
           >
-            <a
-              data-v-500ec100=""
-              href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-              target="_blank"
-            >
-              Billy The Butcher
-            </a>
-          </h2>
-          <span
-            aria-label="total-rating"
-            data-v-500ec100=""
-          >
-            <strong
+            <h2
               data-v-500ec100=""
             >
-              Rating:
-            </strong>
-             4
-          </span>
-          <address
-            class="inline-flex"
-            data-v-500ec100=""
-          >
-            <svg
-              aria-label="Location"
-              class="icon-container"
-              data-v-4b61d232=""
+              <a
+                data-v-500ec100=""
+                href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                target="_blank"
+              >
+                Billy The Butcher
+              </a>
+            </h2>
+            <span
+              aria-label="total-rating"
               data-v-500ec100=""
-              role="img"
-              viewBox="0 0 24 24"
-              xmlns="http://www.w3.org/2000/svg"
             >
-              <path
-                class="icon"
-                d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+              <strong
+                data-v-500ec100=""
+              >
+                Rating:
+              </strong>
+               4
+            </span>
+            <address
+              class="inline-flex"
+              data-v-500ec100=""
+            >
+              <svg
+                aria-label="Location"
+                class="icon-container"
                 data-v-4b61d232=""
-              />
-              <path
-                d="M0 0h24v24H0z"
-                data-v-4b61d232=""
-                fill="none"
-              />
-            </svg>
-            Jungfernstieg 16 - 20
+                data-v-500ec100=""
+                role="img"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  class="icon"
+                  d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                  data-v-4b61d232=""
+                />
+                <path
+                  d="M0 0h24v24H0z"
+                  data-v-4b61d232=""
+                  fill="none"
+                />
+              </svg>
+              Jungfernstieg 16 - 20
 4. OG
 20354 Hamburg
 Germany
-          </address>
-          <span
-            aria-label="phone"
-            class="inline-flex"
+            </address>
+            <span
+              aria-label="phone"
+              class="inline-flex"
+              data-v-500ec100=""
+            >
+              <svg
+                aria-label="Phone"
+                class="icon-container"
+                data-v-500ec100=""
+                data-v-cb1c54ac=""
+                role="img"
+                viewBox="0 0 24 24"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M0 0h24v24H0z"
+                  data-v-cb1c54ac=""
+                  fill="none"
+                />
+                <path
+                  class="icon"
+                  d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                  data-v-cb1c54ac=""
+                />
+              </svg>
+              +494057283299
+            </span>
+          </section>
+          <div
             data-v-500ec100=""
           >
-            <svg
-              aria-label="Phone"
-              class="icon-container"
+            <img
+              alt="Billy The Butcher"
               data-v-500ec100=""
-              data-v-cb1c54ac=""
-              role="img"
-              viewBox="0 0 24 24"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path
-                d="M0 0h24v24H0z"
-                data-v-cb1c54ac=""
-                fill="none"
-              />
-              <path
-                class="icon"
-                d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                data-v-cb1c54ac=""
-              />
-            </svg>
-            +494057283299
-          </span>
-          <img
-            alt="Billy The Butcher"
-            data-v-500ec100=""
-            src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
-          />
+              src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
+            />
+          </div>
         </section>
         <!--v-if-->
       </div>
@@ -1250,30 +1259,171 @@ Germany",
                         "__v_skip": true,
                         "anchor": null,
                         "appContext": null,
-                        "children": "Billy The Butcher",
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": "Billy The Butcher",
+                            "component": null,
+                            "ctx": [Circular],
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": [
+                              "href",
+                            ],
+                            "el": <a
+                              data-v-500ec100=""
+                              href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                              target="_blank"
+                            >
+                              Billy The Butcher
+                            </a>,
+                            "key": null,
+                            "patchFlag": 9,
+                            "props": {
+                              "href": "https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
+                              "target": "_blank",
+                            },
+                            "ref": null,
+                            "scopeId": "data-v-500ec100",
+                            "shapeFlag": 9,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": "a",
+                          },
+                        ],
                         "component": null,
                         "ctx": [Circular],
                         "dirs": null,
                         "dynamicChildren": null,
-                        "dynamicProps": [
-                          "href",
-                        ],
-                        "el": <a
+                        "dynamicProps": null,
+                        "el": <h2
                           data-v-500ec100=""
-                          href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-                          target="_blank"
                         >
-                          Billy The Butcher
-                        </a>,
+                          <a
+                            data-v-500ec100=""
+                            href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                            target="_blank"
+                          >
+                            Billy The Butcher
+                          </a>
+                        </h2>,
                         "key": null,
-                        "patchFlag": 9,
+                        "patchFlag": 0,
+                        "props": null,
+                        "ref": null,
+                        "scopeId": "data-v-500ec100",
+                        "shapeFlag": 17,
+                        "slotScopeIds": null,
+                        "ssContent": null,
+                        "ssFallback": null,
+                        "staticCount": 0,
+                        "suspense": null,
+                        "target": null,
+                        "targetAnchor": null,
+                        "transition": null,
+                        "type": "h2",
+                      },
+                      {
+                        "__v_isVNode": true,
+                        "__v_skip": true,
+                        "anchor": null,
+                        "appContext": null,
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "ce": undefined,
+                            "children": "Rating:",
+                            "component": null,
+                            "ctx": null,
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": null,
+                            "el": <strong
+                              data-v-500ec100=""
+                            >
+                              Rating:
+                            </strong>,
+                            "key": null,
+                            "patchFlag": -1,
+                            "props": null,
+                            "ref": null,
+                            "scopeId": "data-v-500ec100",
+                            "shapeFlag": 9,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": "strong",
+                          },
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": " 4",
+                            "component": null,
+                            "ctx": [Circular],
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": null,
+                            "el":  4,
+                            "key": null,
+                            "patchFlag": 1,
+                            "props": null,
+                            "ref": null,
+                            "scopeId": "data-v-500ec100",
+                            "shapeFlag": 8,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": Symbol(Text),
+                          },
+                        ],
+                        "component": null,
+                        "ctx": [Circular],
+                        "dirs": null,
+                        "dynamicChildren": null,
+                        "dynamicProps": null,
+                        "el": <span
+                          aria-label="total-rating"
+                          data-v-500ec100=""
+                        >
+                          <strong
+                            data-v-500ec100=""
+                          >
+                            Rating:
+                          </strong>
+                           4
+                        </span>,
+                        "key": null,
+                        "patchFlag": 0,
                         "props": {
-                          "href": "https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg",
-                          "target": "_blank",
+                          "aria-label": "total-rating",
                         },
                         "ref": null,
                         "scopeId": "data-v-500ec100",
-                        "shapeFlag": 9,
+                        "shapeFlag": 17,
                         "slotScopeIds": null,
                         "ssContent": null,
                         "ssFallback": null,
@@ -1282,245 +1432,69 @@ Germany",
                         "target": null,
                         "targetAnchor": null,
                         "transition": null,
-                        "type": "a",
-                      },
-                    ],
-                    "component": null,
-                    "ctx": [Circular],
-                    "dirs": null,
-                    "dynamicChildren": null,
-                    "dynamicProps": null,
-                    "el": <h2
-                      data-v-500ec100=""
-                    >
-                      <a
-                        data-v-500ec100=""
-                        href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-                        target="_blank"
-                      >
-                        Billy The Butcher
-                      </a>
-                    </h2>,
-                    "key": null,
-                    "patchFlag": 0,
-                    "props": null,
-                    "ref": null,
-                    "scopeId": "data-v-500ec100",
-                    "shapeFlag": 17,
-                    "slotScopeIds": null,
-                    "ssContent": null,
-                    "ssFallback": null,
-                    "staticCount": 0,
-                    "suspense": null,
-                    "target": null,
-                    "targetAnchor": null,
-                    "transition": null,
-                    "type": "h2",
-                  },
-                  {
-                    "__v_isVNode": true,
-                    "__v_skip": true,
-                    "anchor": null,
-                    "appContext": null,
-                    "children": [
-                      {
-                        "__v_isVNode": true,
-                        "__v_skip": true,
-                        "anchor": null,
-                        "appContext": null,
-                        "ce": undefined,
-                        "children": "Rating:",
-                        "component": null,
-                        "ctx": null,
-                        "dirs": null,
-                        "dynamicChildren": null,
-                        "dynamicProps": null,
-                        "el": <strong
-                          data-v-500ec100=""
-                        >
-                          Rating:
-                        </strong>,
-                        "key": null,
-                        "patchFlag": -1,
-                        "props": null,
-                        "ref": null,
-                        "scopeId": "data-v-500ec100",
-                        "shapeFlag": 9,
-                        "slotScopeIds": null,
-                        "ssContent": null,
-                        "ssFallback": null,
-                        "staticCount": 0,
-                        "suspense": null,
-                        "target": null,
-                        "targetAnchor": null,
-                        "transition": null,
-                        "type": "strong",
+                        "type": "span",
                       },
                       {
                         "__v_isVNode": true,
                         "__v_skip": true,
                         "anchor": null,
                         "appContext": null,
-                        "children": " 4",
-                        "component": null,
-                        "ctx": [Circular],
-                        "dirs": null,
-                        "dynamicChildren": null,
-                        "dynamicProps": null,
-                        "el":  4,
-                        "key": null,
-                        "patchFlag": 1,
-                        "props": null,
-                        "ref": null,
-                        "scopeId": "data-v-500ec100",
-                        "shapeFlag": 8,
-                        "slotScopeIds": null,
-                        "ssContent": null,
-                        "ssFallback": null,
-                        "staticCount": 0,
-                        "suspense": null,
-                        "target": null,
-                        "targetAnchor": null,
-                        "transition": null,
-                        "type": Symbol(Text),
-                      },
-                    ],
-                    "component": null,
-                    "ctx": [Circular],
-                    "dirs": null,
-                    "dynamicChildren": null,
-                    "dynamicProps": null,
-                    "el": <span
-                      aria-label="total-rating"
-                      data-v-500ec100=""
-                    >
-                      <strong
-                        data-v-500ec100=""
-                      >
-                        Rating:
-                      </strong>
-                       4
-                    </span>,
-                    "key": null,
-                    "patchFlag": 0,
-                    "props": {
-                      "aria-label": "total-rating",
-                    },
-                    "ref": null,
-                    "scopeId": "data-v-500ec100",
-                    "shapeFlag": 17,
-                    "slotScopeIds": null,
-                    "ssContent": null,
-                    "ssFallback": null,
-                    "staticCount": 0,
-                    "suspense": null,
-                    "target": null,
-                    "targetAnchor": null,
-                    "transition": null,
-                    "type": "span",
-                  },
-                  {
-                    "__v_isVNode": true,
-                    "__v_skip": true,
-                    "anchor": null,
-                    "appContext": null,
-                    "children": [
-                      {
-                        "__v_isVNode": true,
-                        "__v_skip": true,
-                        "anchor": null,
-                        "appContext": null,
-                        "children": null,
-                        "component": {
-                          "a": null,
-                          "accessCache": {},
-                          "appContext": {
-                            "app": [Circular],
-                            "components": {
-                              "transition": {
-                                "name": "transition",
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": null,
+                            "component": {
+                              "a": null,
+                              "accessCache": {},
+                              "appContext": {
+                                "app": [Circular],
+                                "components": {
+                                  "transition": {
+                                    "name": "transition",
+                                  },
+                                  "transition-group": {
+                                    "name": "transition-group",
+                                  },
+                                },
+                                "config": {
+                                  "compilerOptions": {},
+                                  "errorHandler": undefined,
+                                  "globalProperties": {},
+                                  "isNativeTag": [Function],
+                                  "optionMergeStrategies": {},
+                                  "performance": false,
+                                  "warnHandler": undefined,
+                                },
+                                "directives": {},
+                                "emitsCache": WeakMap {},
+                                "mixins": [
+                                  {
+                                    "beforeCreate": [Function],
+                                  },
+                                ],
+                                "optionsCache": WeakMap {},
+                                "propsCache": WeakMap {},
+                                "provides": {},
+                                "reload": [Function],
                               },
-                              "transition-group": {
-                                "name": "transition-group",
-                              },
-                            },
-                            "config": {
-                              "compilerOptions": {},
-                              "errorHandler": undefined,
-                              "globalProperties": {},
-                              "isNativeTag": [Function],
-                              "optionMergeStrategies": {},
-                              "performance": false,
-                              "warnHandler": undefined,
-                            },
-                            "directives": {},
-                            "emitsCache": WeakMap {},
-                            "mixins": [
-                              {
-                                "beforeCreate": [Function],
-                              },
-                            ],
-                            "optionsCache": WeakMap {},
-                            "propsCache": WeakMap {},
-                            "provides": {},
-                            "reload": [Function],
-                          },
-                          "asyncDep": null,
-                          "asyncResolved": false,
-                          "attrs": {},
-                          "bc": null,
-                          "bm": null,
-                          "bu": null,
-                          "bum": null,
-                          "c": null,
-                          "components": null,
-                          "ctx": {},
-                          "da": null,
-                          "data": {},
-                          "directives": null,
-                          "ec": null,
-                          "effect": ReactiveEffect {
-                            "active": true,
-                            "allowRecurse": true,
-                            "deps": [],
-                            "fn": [Function],
-                            "onTrack": undefined,
-                            "onTrigger": undefined,
-                            "parent": undefined,
-                            "scheduler": [Function],
-                          },
-                          "emit": [Function],
-                          "emitsOptions": null,
-                          "emitted": null,
-                          "exposeProxy": null,
-                          "exposed": null,
-                          "inheritAttrs": undefined,
-                          "isDeactivated": false,
-                          "isMounted": true,
-                          "isUnmounted": false,
-                          "m": null,
-                          "next": null,
-                          "parent": [Circular],
-                          "props": {},
-                          "propsDefaults": {},
-                          "propsOptions": [
-                            {},
-                            [],
-                          ],
-                          "provides": {},
-                          "proxy": {},
-                          "refs": {},
-                          "render": [Function],
-                          "renderCache": [],
-                          "root": [Circular],
-                          "rtc": null,
-                          "rtg": null,
-                          "scope": EffectScope {
-                            "_active": true,
-                            "cleanups": [],
-                            "detached": true,
-                            "effects": [
-                              ReactiveEffect {
+                              "asyncDep": null,
+                              "asyncResolved": false,
+                              "attrs": {},
+                              "bc": null,
+                              "bm": null,
+                              "bu": null,
+                              "bum": null,
+                              "c": null,
+                              "components": null,
+                              "ctx": {},
+                              "da": null,
+                              "data": {},
+                              "directives": null,
+                              "ec": null,
+                              "effect": ReactiveEffect {
                                 "active": true,
                                 "allowRecurse": true,
                                 "deps": [],
@@ -1530,45 +1504,170 @@ Germany",
                                 "parent": undefined,
                                 "scheduler": [Function],
                               },
-                            ],
-                            "parent": undefined,
-                          },
-                          "setupContext": null,
-                          "setupState": {},
-                          "slots": {},
-                          "sp": null,
-                          "subTree": {
-                            "__v_isVNode": true,
-                            "__v_skip": true,
-                            "anchor": null,
-                            "appContext": null,
-                            "children": [
-                              {
+                              "emit": [Function],
+                              "emitsOptions": null,
+                              "emitted": null,
+                              "exposeProxy": null,
+                              "exposed": null,
+                              "inheritAttrs": undefined,
+                              "isDeactivated": false,
+                              "isMounted": true,
+                              "isUnmounted": false,
+                              "m": null,
+                              "next": null,
+                              "parent": [Circular],
+                              "props": {},
+                              "propsDefaults": {},
+                              "propsOptions": [
+                                {},
+                                [],
+                              ],
+                              "provides": {},
+                              "proxy": {},
+                              "refs": {},
+                              "render": [Function],
+                              "renderCache": [],
+                              "root": [Circular],
+                              "rtc": null,
+                              "rtg": null,
+                              "scope": EffectScope {
+                                "_active": true,
+                                "cleanups": [],
+                                "detached": true,
+                                "effects": [
+                                  ReactiveEffect {
+                                    "active": true,
+                                    "allowRecurse": true,
+                                    "deps": [],
+                                    "fn": [Function],
+                                    "onTrack": undefined,
+                                    "onTrigger": undefined,
+                                    "parent": undefined,
+                                    "scheduler": [Function],
+                                  },
+                                ],
+                                "parent": undefined,
+                              },
+                              "setupContext": null,
+                              "setupState": {},
+                              "slots": {},
+                              "sp": null,
+                              "subTree": {
                                 "__v_isVNode": true,
                                 "__v_skip": true,
                                 "anchor": null,
                                 "appContext": null,
-                                "ce": undefined,
-                                "children": null,
+                                "children": [
+                                  {
+                                    "__v_isVNode": true,
+                                    "__v_skip": true,
+                                    "anchor": null,
+                                    "appContext": null,
+                                    "ce": undefined,
+                                    "children": null,
+                                    "component": null,
+                                    "ctx": null,
+                                    "dirs": null,
+                                    "dynamicChildren": null,
+                                    "dynamicProps": null,
+                                    "el": <path
+                                      class="icon"
+                                      d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                                      data-v-4b61d232=""
+                                    />,
+                                    "key": null,
+                                    "patchFlag": -1,
+                                    "props": {
+                                      "class": "icon",
+                                      "d": "M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z",
+                                    },
+                                    "ref": null,
+                                    "scopeId": "data-v-4b61d232",
+                                    "shapeFlag": 1,
+                                    "slotScopeIds": null,
+                                    "ssContent": null,
+                                    "ssFallback": null,
+                                    "staticCount": 0,
+                                    "suspense": null,
+                                    "target": null,
+                                    "targetAnchor": null,
+                                    "transition": null,
+                                    "type": "path",
+                                  },
+                                  {
+                                    "__v_isVNode": true,
+                                    "__v_skip": true,
+                                    "anchor": null,
+                                    "appContext": null,
+                                    "ce": undefined,
+                                    "children": null,
+                                    "component": null,
+                                    "ctx": null,
+                                    "dirs": null,
+                                    "dynamicChildren": null,
+                                    "dynamicProps": null,
+                                    "el": <path
+                                      d="M0 0h24v24H0z"
+                                      data-v-4b61d232=""
+                                      fill="none"
+                                    />,
+                                    "key": null,
+                                    "patchFlag": -1,
+                                    "props": {
+                                      "d": "M0 0h24v24H0z",
+                                      "fill": "none",
+                                    },
+                                    "ref": null,
+                                    "scopeId": "data-v-4b61d232",
+                                    "shapeFlag": 1,
+                                    "slotScopeIds": null,
+                                    "ssContent": null,
+                                    "ssFallback": null,
+                                    "staticCount": 0,
+                                    "suspense": null,
+                                    "target": null,
+                                    "targetAnchor": null,
+                                    "transition": null,
+                                    "type": "path",
+                                  },
+                                ],
                                 "component": null,
-                                "ctx": null,
+                                "ctx": [Circular],
                                 "dirs": null,
-                                "dynamicChildren": null,
+                                "dynamicChildren": [],
                                 "dynamicProps": null,
-                                "el": <path
-                                  class="icon"
-                                  d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                                "el": <svg
+                                  aria-label="Location"
+                                  class="icon-container"
                                   data-v-4b61d232=""
-                                />,
+                                  data-v-500ec100=""
+                                  role="img"
+                                  viewBox="0 0 24 24"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <path
+                                    class="icon"
+                                    d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                                    data-v-4b61d232=""
+                                  />
+                                  <path
+                                    d="M0 0h24v24H0z"
+                                    data-v-4b61d232=""
+                                    fill="none"
+                                  />
+                                </svg>,
                                 "key": null,
-                                "patchFlag": -1,
+                                "patchFlag": 0,
                                 "props": {
-                                  "class": "icon",
-                                  "d": "M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z",
+                                  "aria-label": "Location",
+                                  "class": "icon-container",
+                                  "role": "img",
+                                  "viewBox": "0 0 24 24",
+                                  "xmlns": "http://www.w3.org/2000/svg",
                                 },
                                 "ref": null,
                                 "scopeId": "data-v-4b61d232",
-                                "shapeFlag": 1,
+                                "shapeFlag": 17,
                                 "slotScopeIds": null,
                                 "ssContent": null,
                                 "ssFallback": null,
@@ -1577,49 +1676,25 @@ Germany",
                                 "target": null,
                                 "targetAnchor": null,
                                 "transition": null,
-                                "type": "path",
+                                "type": "svg",
                               },
-                              {
-                                "__v_isVNode": true,
-                                "__v_skip": true,
-                                "anchor": null,
-                                "appContext": null,
-                                "ce": undefined,
-                                "children": null,
-                                "component": null,
-                                "ctx": null,
-                                "dirs": null,
-                                "dynamicChildren": null,
-                                "dynamicProps": null,
-                                "el": <path
-                                  d="M0 0h24v24H0z"
-                                  data-v-4b61d232=""
-                                  fill="none"
-                                />,
-                                "key": null,
-                                "patchFlag": -1,
-                                "props": {
-                                  "d": "M0 0h24v24H0z",
-                                  "fill": "none",
-                                },
-                                "ref": null,
-                                "scopeId": "data-v-4b61d232",
-                                "shapeFlag": 1,
-                                "slotScopeIds": null,
-                                "ssContent": null,
-                                "ssFallback": null,
-                                "staticCount": 0,
-                                "suspense": null,
-                                "target": null,
-                                "targetAnchor": null,
-                                "transition": null,
-                                "type": "path",
+                              "suspense": null,
+                              "suspenseId": 0,
+                              "type": {
+                                "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconMarker.vue",
+                                "__scopeId": "data-v-4b61d232",
+                                "render": [Function],
                               },
-                            ],
-                            "component": null,
+                              "u": null,
+                              "uid": 3,
+                              "um": null,
+                              "update": [Function],
+                              "vnode": [Circular],
+                              "withProxy": null,
+                            },
                             "ctx": [Circular],
                             "dirs": null,
-                            "dynamicChildren": [],
+                            "dynamicChildren": null,
                             "dynamicProps": null,
                             "el": <svg
                               aria-label="Location"
@@ -1643,16 +1718,10 @@ Germany",
                             </svg>,
                             "key": null,
                             "patchFlag": 0,
-                            "props": {
-                              "aria-label": "Location",
-                              "class": "icon-container",
-                              "role": "img",
-                              "viewBox": "0 0 24 24",
-                              "xmlns": "http://www.w3.org/2000/svg",
-                            },
+                            "props": null,
                             "ref": null,
-                            "scopeId": "data-v-4b61d232",
-                            "shapeFlag": 17,
+                            "scopeId": "data-v-500ec100",
+                            "shapeFlag": 4,
                             "slotScopeIds": null,
                             "ssContent": null,
                             "ssFallback": null,
@@ -1661,27 +1730,518 @@ Germany",
                             "target": null,
                             "targetAnchor": null,
                             "transition": null,
-                            "type": "svg",
+                            "type": {
+                              "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconMarker.vue",
+                              "__scopeId": "data-v-4b61d232",
+                              "render": [Function],
+                            },
                           },
-                          "suspense": null,
-                          "suspenseId": 0,
-                          "type": {
-                            "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconMarker.vue",
-                            "__scopeId": "data-v-4b61d232",
-                            "render": [Function],
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": "Jungfernstieg 16 - 20
+4. OG
+20354 Hamburg
+Germany",
+                            "component": null,
+                            "ctx": [Circular],
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": null,
+                            "el": Jungfernstieg 16 - 20
+4. OG
+20354 Hamburg
+Germany,
+                            "key": null,
+                            "patchFlag": 1,
+                            "props": null,
+                            "ref": null,
+                            "scopeId": "data-v-500ec100",
+                            "shapeFlag": 8,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": Symbol(Text),
                           },
-                          "u": null,
-                          "uid": 3,
-                          "um": null,
-                          "update": [Function],
-                          "vnode": [Circular],
-                          "withProxy": null,
-                        },
+                        ],
+                        "component": null,
                         "ctx": [Circular],
                         "dirs": null,
                         "dynamicChildren": null,
                         "dynamicProps": null,
-                        "el": <svg
+                        "el": <address
+                          class="inline-flex"
+                          data-v-500ec100=""
+                        >
+                          <svg
+                            aria-label="Location"
+                            class="icon-container"
+                            data-v-4b61d232=""
+                            data-v-500ec100=""
+                            role="img"
+                            viewBox="0 0 24 24"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              class="icon"
+                              d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                              data-v-4b61d232=""
+                            />
+                            <path
+                              d="M0 0h24v24H0z"
+                              data-v-4b61d232=""
+                              fill="none"
+                            />
+                          </svg>
+                          Jungfernstieg 16 - 20
+4. OG
+20354 Hamburg
+Germany
+                        </address>,
+                        "key": null,
+                        "patchFlag": 0,
+                        "props": {
+                          "class": "inline-flex",
+                        },
+                        "ref": null,
+                        "scopeId": "data-v-500ec100",
+                        "shapeFlag": 17,
+                        "slotScopeIds": null,
+                        "ssContent": null,
+                        "ssFallback": null,
+                        "staticCount": 0,
+                        "suspense": null,
+                        "target": null,
+                        "targetAnchor": null,
+                        "transition": null,
+                        "type": "address",
+                      },
+                      {
+                        "__v_isVNode": true,
+                        "__v_skip": true,
+                        "anchor": null,
+                        "appContext": null,
+                        "children": [
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": null,
+                            "component": {
+                              "a": null,
+                              "accessCache": {},
+                              "appContext": {
+                                "app": [Circular],
+                                "components": {
+                                  "transition": {
+                                    "name": "transition",
+                                  },
+                                  "transition-group": {
+                                    "name": "transition-group",
+                                  },
+                                },
+                                "config": {
+                                  "compilerOptions": {},
+                                  "errorHandler": undefined,
+                                  "globalProperties": {},
+                                  "isNativeTag": [Function],
+                                  "optionMergeStrategies": {},
+                                  "performance": false,
+                                  "warnHandler": undefined,
+                                },
+                                "directives": {},
+                                "emitsCache": WeakMap {},
+                                "mixins": [
+                                  {
+                                    "beforeCreate": [Function],
+                                  },
+                                ],
+                                "optionsCache": WeakMap {},
+                                "propsCache": WeakMap {},
+                                "provides": {},
+                                "reload": [Function],
+                              },
+                              "asyncDep": null,
+                              "asyncResolved": false,
+                              "attrs": {},
+                              "bc": null,
+                              "bm": null,
+                              "bu": null,
+                              "bum": null,
+                              "c": null,
+                              "components": null,
+                              "ctx": {},
+                              "da": null,
+                              "data": {},
+                              "directives": null,
+                              "ec": null,
+                              "effect": ReactiveEffect {
+                                "active": true,
+                                "allowRecurse": true,
+                                "deps": [],
+                                "fn": [Function],
+                                "onTrack": undefined,
+                                "onTrigger": undefined,
+                                "parent": undefined,
+                                "scheduler": [Function],
+                              },
+                              "emit": [Function],
+                              "emitsOptions": null,
+                              "emitted": null,
+                              "exposeProxy": null,
+                              "exposed": null,
+                              "inheritAttrs": undefined,
+                              "isDeactivated": false,
+                              "isMounted": true,
+                              "isUnmounted": false,
+                              "m": null,
+                              "next": null,
+                              "parent": [Circular],
+                              "props": {},
+                              "propsDefaults": {},
+                              "propsOptions": [
+                                {},
+                                [],
+                              ],
+                              "provides": {},
+                              "proxy": {},
+                              "refs": {},
+                              "render": [Function],
+                              "renderCache": [],
+                              "root": [Circular],
+                              "rtc": null,
+                              "rtg": null,
+                              "scope": EffectScope {
+                                "_active": true,
+                                "cleanups": [],
+                                "detached": true,
+                                "effects": [
+                                  ReactiveEffect {
+                                    "active": true,
+                                    "allowRecurse": true,
+                                    "deps": [],
+                                    "fn": [Function],
+                                    "onTrack": undefined,
+                                    "onTrigger": undefined,
+                                    "parent": undefined,
+                                    "scheduler": [Function],
+                                  },
+                                ],
+                                "parent": undefined,
+                              },
+                              "setupContext": null,
+                              "setupState": {},
+                              "slots": {},
+                              "sp": null,
+                              "subTree": {
+                                "__v_isVNode": true,
+                                "__v_skip": true,
+                                "anchor": null,
+                                "appContext": null,
+                                "children": [
+                                  {
+                                    "__v_isVNode": true,
+                                    "__v_skip": true,
+                                    "anchor": null,
+                                    "appContext": null,
+                                    "ce": undefined,
+                                    "children": null,
+                                    "component": null,
+                                    "ctx": null,
+                                    "dirs": null,
+                                    "dynamicChildren": null,
+                                    "dynamicProps": null,
+                                    "el": <path
+                                      d="M0 0h24v24H0z"
+                                      data-v-cb1c54ac=""
+                                      fill="none"
+                                    />,
+                                    "key": null,
+                                    "patchFlag": -1,
+                                    "props": {
+                                      "d": "M0 0h24v24H0z",
+                                      "fill": "none",
+                                    },
+                                    "ref": null,
+                                    "scopeId": "data-v-cb1c54ac",
+                                    "shapeFlag": 1,
+                                    "slotScopeIds": null,
+                                    "ssContent": null,
+                                    "ssFallback": null,
+                                    "staticCount": 0,
+                                    "suspense": null,
+                                    "target": null,
+                                    "targetAnchor": null,
+                                    "transition": null,
+                                    "type": "path",
+                                  },
+                                  {
+                                    "__v_isVNode": true,
+                                    "__v_skip": true,
+                                    "anchor": null,
+                                    "appContext": null,
+                                    "ce": undefined,
+                                    "children": null,
+                                    "component": null,
+                                    "ctx": null,
+                                    "dirs": null,
+                                    "dynamicChildren": null,
+                                    "dynamicProps": null,
+                                    "el": <path
+                                      class="icon"
+                                      d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                                      data-v-cb1c54ac=""
+                                    />,
+                                    "key": null,
+                                    "patchFlag": -1,
+                                    "props": {
+                                      "class": "icon",
+                                      "d": "M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z",
+                                    },
+                                    "ref": null,
+                                    "scopeId": "data-v-cb1c54ac",
+                                    "shapeFlag": 1,
+                                    "slotScopeIds": null,
+                                    "ssContent": null,
+                                    "ssFallback": null,
+                                    "staticCount": 0,
+                                    "suspense": null,
+                                    "target": null,
+                                    "targetAnchor": null,
+                                    "transition": null,
+                                    "type": "path",
+                                  },
+                                ],
+                                "component": null,
+                                "ctx": [Circular],
+                                "dirs": null,
+                                "dynamicChildren": [],
+                                "dynamicProps": null,
+                                "el": <svg
+                                  aria-label="Phone"
+                                  class="icon-container"
+                                  data-v-500ec100=""
+                                  data-v-cb1c54ac=""
+                                  role="img"
+                                  viewBox="0 0 24 24"
+                                  xmlns="http://www.w3.org/2000/svg"
+                                >
+                                  <path
+                                    d="M0 0h24v24H0z"
+                                    data-v-cb1c54ac=""
+                                    fill="none"
+                                  />
+                                  <path
+                                    class="icon"
+                                    d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                                    data-v-cb1c54ac=""
+                                  />
+                                </svg>,
+                                "key": null,
+                                "patchFlag": 0,
+                                "props": {
+                                  "aria-label": "Phone",
+                                  "class": "icon-container",
+                                  "role": "img",
+                                  "viewBox": "0 0 24 24",
+                                  "xmlns": "http://www.w3.org/2000/svg",
+                                },
+                                "ref": null,
+                                "scopeId": "data-v-cb1c54ac",
+                                "shapeFlag": 17,
+                                "slotScopeIds": null,
+                                "ssContent": null,
+                                "ssFallback": null,
+                                "staticCount": 0,
+                                "suspense": null,
+                                "target": null,
+                                "targetAnchor": null,
+                                "transition": null,
+                                "type": "svg",
+                              },
+                              "suspense": null,
+                              "suspenseId": 0,
+                              "type": {
+                                "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconPhone.vue",
+                                "__scopeId": "data-v-cb1c54ac",
+                                "render": [Function],
+                              },
+                              "u": null,
+                              "uid": 4,
+                              "um": null,
+                              "update": [Function],
+                              "vnode": [Circular],
+                              "withProxy": null,
+                            },
+                            "ctx": [Circular],
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": null,
+                            "el": <svg
+                              aria-label="Phone"
+                              class="icon-container"
+                              data-v-500ec100=""
+                              data-v-cb1c54ac=""
+                              role="img"
+                              viewBox="0 0 24 24"
+                              xmlns="http://www.w3.org/2000/svg"
+                            >
+                              <path
+                                d="M0 0h24v24H0z"
+                                data-v-cb1c54ac=""
+                                fill="none"
+                              />
+                              <path
+                                class="icon"
+                                d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                                data-v-cb1c54ac=""
+                              />
+                            </svg>,
+                            "key": null,
+                            "patchFlag": 0,
+                            "props": null,
+                            "ref": null,
+                            "scopeId": "data-v-500ec100",
+                            "shapeFlag": 4,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": {
+                              "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconPhone.vue",
+                              "__scopeId": "data-v-cb1c54ac",
+                              "render": [Function],
+                            },
+                          },
+                          {
+                            "__v_isVNode": true,
+                            "__v_skip": true,
+                            "anchor": null,
+                            "appContext": null,
+                            "children": "+494057283299",
+                            "component": null,
+                            "ctx": [Circular],
+                            "dirs": null,
+                            "dynamicChildren": null,
+                            "dynamicProps": null,
+                            "el": +494057283299,
+                            "key": null,
+                            "patchFlag": 1,
+                            "props": null,
+                            "ref": null,
+                            "scopeId": "data-v-500ec100",
+                            "shapeFlag": 8,
+                            "slotScopeIds": null,
+                            "ssContent": null,
+                            "ssFallback": null,
+                            "staticCount": 0,
+                            "suspense": null,
+                            "target": null,
+                            "targetAnchor": null,
+                            "transition": null,
+                            "type": Symbol(Text),
+                          },
+                        ],
+                        "component": null,
+                        "ctx": [Circular],
+                        "dirs": null,
+                        "dynamicChildren": null,
+                        "dynamicProps": null,
+                        "el": <span
+                          aria-label="phone"
+                          class="inline-flex"
+                          data-v-500ec100=""
+                        >
+                          <svg
+                            aria-label="Phone"
+                            class="icon-container"
+                            data-v-500ec100=""
+                            data-v-cb1c54ac=""
+                            role="img"
+                            viewBox="0 0 24 24"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <path
+                              d="M0 0h24v24H0z"
+                              data-v-cb1c54ac=""
+                              fill="none"
+                            />
+                            <path
+                              class="icon"
+                              d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                              data-v-cb1c54ac=""
+                            />
+                          </svg>
+                          +494057283299
+                        </span>,
+                        "key": null,
+                        "patchFlag": 0,
+                        "props": {
+                          "aria-label": "phone",
+                          "class": "inline-flex",
+                        },
+                        "ref": null,
+                        "scopeId": "data-v-500ec100",
+                        "shapeFlag": 17,
+                        "slotScopeIds": null,
+                        "ssContent": null,
+                        "ssFallback": null,
+                        "staticCount": 0,
+                        "suspense": null,
+                        "target": null,
+                        "targetAnchor": null,
+                        "transition": null,
+                        "type": "span",
+                      },
+                    ],
+                    "component": null,
+                    "ctx": [Circular],
+                    "dirs": null,
+                    "dynamicChildren": null,
+                    "dynamicProps": null,
+                    "el": <section
+                      class="main-text"
+                      data-v-500ec100=""
+                    >
+                      <h2
+                        data-v-500ec100=""
+                      >
+                        <a
+                          data-v-500ec100=""
+                          href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                          target="_blank"
+                        >
+                          Billy The Butcher
+                        </a>
+                      </h2>
+                      <span
+                        aria-label="total-rating"
+                        data-v-500ec100=""
+                      >
+                        <strong
+                          data-v-500ec100=""
+                        >
+                          Rating:
+                        </strong>
+                         4
+                      </span>
+                      <address
+                        class="inline-flex"
+                        data-v-500ec100=""
+                      >
+                        <svg
                           aria-label="Location"
                           class="icon-container"
                           data-v-4b61d232=""
@@ -1700,51 +2260,92 @@ Germany",
                             data-v-4b61d232=""
                             fill="none"
                           />
-                        </svg>,
-                        "key": null,
-                        "patchFlag": 0,
-                        "props": null,
-                        "ref": null,
-                        "scopeId": "data-v-500ec100",
-                        "shapeFlag": 4,
-                        "slotScopeIds": null,
-                        "ssContent": null,
-                        "ssFallback": null,
-                        "staticCount": 0,
-                        "suspense": null,
-                        "target": null,
-                        "targetAnchor": null,
-                        "transition": null,
-                        "type": {
-                          "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconMarker.vue",
-                          "__scopeId": "data-v-4b61d232",
-                          "render": [Function],
-                        },
-                      },
+                        </svg>
+                        Jungfernstieg 16 - 20
+4. OG
+20354 Hamburg
+Germany
+                      </address>
+                      <span
+                        aria-label="phone"
+                        class="inline-flex"
+                        data-v-500ec100=""
+                      >
+                        <svg
+                          aria-label="Phone"
+                          class="icon-container"
+                          data-v-500ec100=""
+                          data-v-cb1c54ac=""
+                          role="img"
+                          viewBox="0 0 24 24"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <path
+                            d="M0 0h24v24H0z"
+                            data-v-cb1c54ac=""
+                            fill="none"
+                          />
+                          <path
+                            class="icon"
+                            d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                            data-v-cb1c54ac=""
+                          />
+                        </svg>
+                        +494057283299
+                      </span>
+                    </section>,
+                    "key": null,
+                    "patchFlag": 0,
+                    "props": {
+                      "class": "main-text",
+                    },
+                    "ref": null,
+                    "scopeId": "data-v-500ec100",
+                    "shapeFlag": 17,
+                    "slotScopeIds": null,
+                    "ssContent": null,
+                    "ssFallback": null,
+                    "staticCount": 0,
+                    "suspense": null,
+                    "target": null,
+                    "targetAnchor": null,
+                    "transition": null,
+                    "type": "section",
+                  },
+                  {
+                    "__v_isVNode": true,
+                    "__v_skip": true,
+                    "anchor": null,
+                    "appContext": null,
+                    "children": [
                       {
                         "__v_isVNode": true,
                         "__v_skip": true,
                         "anchor": null,
                         "appContext": null,
-                        "children": "Jungfernstieg 16 - 20
-4. OG
-20354 Hamburg
-Germany",
+                        "children": null,
                         "component": null,
                         "ctx": [Circular],
                         "dirs": null,
                         "dynamicChildren": null,
-                        "dynamicProps": null,
-                        "el": Jungfernstieg 16 - 20
-4. OG
-20354 Hamburg
-Germany,
+                        "dynamicProps": [
+                          "src",
+                          "alt",
+                        ],
+                        "el": <img
+                          alt="Billy The Butcher"
+                          data-v-500ec100=""
+                          src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
+                        />,
                         "key": null,
-                        "patchFlag": 1,
-                        "props": null,
+                        "patchFlag": 8,
+                        "props": {
+                          "alt": "Billy The Butcher",
+                          "src": "https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg",
+                        },
                         "ref": null,
                         "scopeId": "data-v-500ec100",
-                        "shapeFlag": 8,
+                        "shapeFlag": 1,
                         "slotScopeIds": null,
                         "ssContent": null,
                         "ssFallback": null,
@@ -1753,7 +2354,7 @@ Germany,
                         "target": null,
                         "targetAnchor": null,
                         "transition": null,
-                        "type": Symbol(Text),
+                        "type": "img",
                       },
                     ],
                     "component": null,
@@ -1761,7 +2362,68 @@ Germany,
                     "dirs": null,
                     "dynamicChildren": null,
                     "dynamicProps": null,
-                    "el": <address
+                    "el": <div
+                      data-v-500ec100=""
+                    >
+                      <img
+                        alt="Billy The Butcher"
+                        data-v-500ec100=""
+                        src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
+                      />
+                    </div>,
+                    "key": null,
+                    "patchFlag": 0,
+                    "props": null,
+                    "ref": null,
+                    "scopeId": "data-v-500ec100",
+                    "shapeFlag": 17,
+                    "slotScopeIds": null,
+                    "ssContent": null,
+                    "ssFallback": null,
+                    "staticCount": 0,
+                    "suspense": null,
+                    "target": null,
+                    "targetAnchor": null,
+                    "transition": null,
+                    "type": "div",
+                  },
+                ],
+                "component": null,
+                "ctx": [Circular],
+                "dirs": null,
+                "dynamicChildren": null,
+                "dynamicProps": null,
+                "el": <section
+                  class="main-info"
+                  data-v-500ec100=""
+                >
+                  <section
+                    class="main-text"
+                    data-v-500ec100=""
+                  >
+                    <h2
+                      data-v-500ec100=""
+                    >
+                      <a
+                        data-v-500ec100=""
+                        href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                        target="_blank"
+                      >
+                        Billy The Butcher
+                      </a>
+                    </h2>
+                    <span
+                      aria-label="total-rating"
+                      data-v-500ec100=""
+                    >
+                      <strong
+                        data-v-500ec100=""
+                      >
+                        Rating:
+                      </strong>
+                       4
+                    </span>
+                    <address
                       class="inline-flex"
                       data-v-500ec100=""
                     >
@@ -1789,362 +2451,8 @@ Germany,
 4. OG
 20354 Hamburg
 Germany
-                    </address>,
-                    "key": null,
-                    "patchFlag": 0,
-                    "props": {
-                      "class": "inline-flex",
-                    },
-                    "ref": null,
-                    "scopeId": "data-v-500ec100",
-                    "shapeFlag": 17,
-                    "slotScopeIds": null,
-                    "ssContent": null,
-                    "ssFallback": null,
-                    "staticCount": 0,
-                    "suspense": null,
-                    "target": null,
-                    "targetAnchor": null,
-                    "transition": null,
-                    "type": "address",
-                  },
-                  {
-                    "__v_isVNode": true,
-                    "__v_skip": true,
-                    "anchor": null,
-                    "appContext": null,
-                    "children": [
-                      {
-                        "__v_isVNode": true,
-                        "__v_skip": true,
-                        "anchor": null,
-                        "appContext": null,
-                        "children": null,
-                        "component": {
-                          "a": null,
-                          "accessCache": {},
-                          "appContext": {
-                            "app": [Circular],
-                            "components": {
-                              "transition": {
-                                "name": "transition",
-                              },
-                              "transition-group": {
-                                "name": "transition-group",
-                              },
-                            },
-                            "config": {
-                              "compilerOptions": {},
-                              "errorHandler": undefined,
-                              "globalProperties": {},
-                              "isNativeTag": [Function],
-                              "optionMergeStrategies": {},
-                              "performance": false,
-                              "warnHandler": undefined,
-                            },
-                            "directives": {},
-                            "emitsCache": WeakMap {},
-                            "mixins": [
-                              {
-                                "beforeCreate": [Function],
-                              },
-                            ],
-                            "optionsCache": WeakMap {},
-                            "propsCache": WeakMap {},
-                            "provides": {},
-                            "reload": [Function],
-                          },
-                          "asyncDep": null,
-                          "asyncResolved": false,
-                          "attrs": {},
-                          "bc": null,
-                          "bm": null,
-                          "bu": null,
-                          "bum": null,
-                          "c": null,
-                          "components": null,
-                          "ctx": {},
-                          "da": null,
-                          "data": {},
-                          "directives": null,
-                          "ec": null,
-                          "effect": ReactiveEffect {
-                            "active": true,
-                            "allowRecurse": true,
-                            "deps": [],
-                            "fn": [Function],
-                            "onTrack": undefined,
-                            "onTrigger": undefined,
-                            "parent": undefined,
-                            "scheduler": [Function],
-                          },
-                          "emit": [Function],
-                          "emitsOptions": null,
-                          "emitted": null,
-                          "exposeProxy": null,
-                          "exposed": null,
-                          "inheritAttrs": undefined,
-                          "isDeactivated": false,
-                          "isMounted": true,
-                          "isUnmounted": false,
-                          "m": null,
-                          "next": null,
-                          "parent": [Circular],
-                          "props": {},
-                          "propsDefaults": {},
-                          "propsOptions": [
-                            {},
-                            [],
-                          ],
-                          "provides": {},
-                          "proxy": {},
-                          "refs": {},
-                          "render": [Function],
-                          "renderCache": [],
-                          "root": [Circular],
-                          "rtc": null,
-                          "rtg": null,
-                          "scope": EffectScope {
-                            "_active": true,
-                            "cleanups": [],
-                            "detached": true,
-                            "effects": [
-                              ReactiveEffect {
-                                "active": true,
-                                "allowRecurse": true,
-                                "deps": [],
-                                "fn": [Function],
-                                "onTrack": undefined,
-                                "onTrigger": undefined,
-                                "parent": undefined,
-                                "scheduler": [Function],
-                              },
-                            ],
-                            "parent": undefined,
-                          },
-                          "setupContext": null,
-                          "setupState": {},
-                          "slots": {},
-                          "sp": null,
-                          "subTree": {
-                            "__v_isVNode": true,
-                            "__v_skip": true,
-                            "anchor": null,
-                            "appContext": null,
-                            "children": [
-                              {
-                                "__v_isVNode": true,
-                                "__v_skip": true,
-                                "anchor": null,
-                                "appContext": null,
-                                "ce": undefined,
-                                "children": null,
-                                "component": null,
-                                "ctx": null,
-                                "dirs": null,
-                                "dynamicChildren": null,
-                                "dynamicProps": null,
-                                "el": <path
-                                  d="M0 0h24v24H0z"
-                                  data-v-cb1c54ac=""
-                                  fill="none"
-                                />,
-                                "key": null,
-                                "patchFlag": -1,
-                                "props": {
-                                  "d": "M0 0h24v24H0z",
-                                  "fill": "none",
-                                },
-                                "ref": null,
-                                "scopeId": "data-v-cb1c54ac",
-                                "shapeFlag": 1,
-                                "slotScopeIds": null,
-                                "ssContent": null,
-                                "ssFallback": null,
-                                "staticCount": 0,
-                                "suspense": null,
-                                "target": null,
-                                "targetAnchor": null,
-                                "transition": null,
-                                "type": "path",
-                              },
-                              {
-                                "__v_isVNode": true,
-                                "__v_skip": true,
-                                "anchor": null,
-                                "appContext": null,
-                                "ce": undefined,
-                                "children": null,
-                                "component": null,
-                                "ctx": null,
-                                "dirs": null,
-                                "dynamicChildren": null,
-                                "dynamicProps": null,
-                                "el": <path
-                                  class="icon"
-                                  d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                                  data-v-cb1c54ac=""
-                                />,
-                                "key": null,
-                                "patchFlag": -1,
-                                "props": {
-                                  "class": "icon",
-                                  "d": "M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z",
-                                },
-                                "ref": null,
-                                "scopeId": "data-v-cb1c54ac",
-                                "shapeFlag": 1,
-                                "slotScopeIds": null,
-                                "ssContent": null,
-                                "ssFallback": null,
-                                "staticCount": 0,
-                                "suspense": null,
-                                "target": null,
-                                "targetAnchor": null,
-                                "transition": null,
-                                "type": "path",
-                              },
-                            ],
-                            "component": null,
-                            "ctx": [Circular],
-                            "dirs": null,
-                            "dynamicChildren": [],
-                            "dynamicProps": null,
-                            "el": <svg
-                              aria-label="Phone"
-                              class="icon-container"
-                              data-v-500ec100=""
-                              data-v-cb1c54ac=""
-                              role="img"
-                              viewBox="0 0 24 24"
-                              xmlns="http://www.w3.org/2000/svg"
-                            >
-                              <path
-                                d="M0 0h24v24H0z"
-                                data-v-cb1c54ac=""
-                                fill="none"
-                              />
-                              <path
-                                class="icon"
-                                d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                                data-v-cb1c54ac=""
-                              />
-                            </svg>,
-                            "key": null,
-                            "patchFlag": 0,
-                            "props": {
-                              "aria-label": "Phone",
-                              "class": "icon-container",
-                              "role": "img",
-                              "viewBox": "0 0 24 24",
-                              "xmlns": "http://www.w3.org/2000/svg",
-                            },
-                            "ref": null,
-                            "scopeId": "data-v-cb1c54ac",
-                            "shapeFlag": 17,
-                            "slotScopeIds": null,
-                            "ssContent": null,
-                            "ssFallback": null,
-                            "staticCount": 0,
-                            "suspense": null,
-                            "target": null,
-                            "targetAnchor": null,
-                            "transition": null,
-                            "type": "svg",
-                          },
-                          "suspense": null,
-                          "suspenseId": 0,
-                          "type": {
-                            "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconPhone.vue",
-                            "__scopeId": "data-v-cb1c54ac",
-                            "render": [Function],
-                          },
-                          "u": null,
-                          "uid": 4,
-                          "um": null,
-                          "update": [Function],
-                          "vnode": [Circular],
-                          "withProxy": null,
-                        },
-                        "ctx": [Circular],
-                        "dirs": null,
-                        "dynamicChildren": null,
-                        "dynamicProps": null,
-                        "el": <svg
-                          aria-label="Phone"
-                          class="icon-container"
-                          data-v-500ec100=""
-                          data-v-cb1c54ac=""
-                          role="img"
-                          viewBox="0 0 24 24"
-                          xmlns="http://www.w3.org/2000/svg"
-                        >
-                          <path
-                            d="M0 0h24v24H0z"
-                            data-v-cb1c54ac=""
-                            fill="none"
-                          />
-                          <path
-                            class="icon"
-                            d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                            data-v-cb1c54ac=""
-                          />
-                        </svg>,
-                        "key": null,
-                        "patchFlag": 0,
-                        "props": null,
-                        "ref": null,
-                        "scopeId": "data-v-500ec100",
-                        "shapeFlag": 4,
-                        "slotScopeIds": null,
-                        "ssContent": null,
-                        "ssFallback": null,
-                        "staticCount": 0,
-                        "suspense": null,
-                        "target": null,
-                        "targetAnchor": null,
-                        "transition": null,
-                        "type": {
-                          "__file": "/Users/shohreh/Shohreh/Projects/visable/visable/src/components/icons/IconPhone.vue",
-                          "__scopeId": "data-v-cb1c54ac",
-                          "render": [Function],
-                        },
-                      },
-                      {
-                        "__v_isVNode": true,
-                        "__v_skip": true,
-                        "anchor": null,
-                        "appContext": null,
-                        "children": "+494057283299",
-                        "component": null,
-                        "ctx": [Circular],
-                        "dirs": null,
-                        "dynamicChildren": null,
-                        "dynamicProps": null,
-                        "el": +494057283299,
-                        "key": null,
-                        "patchFlag": 1,
-                        "props": null,
-                        "ref": null,
-                        "scopeId": "data-v-500ec100",
-                        "shapeFlag": 8,
-                        "slotScopeIds": null,
-                        "ssContent": null,
-                        "ssFallback": null,
-                        "staticCount": 0,
-                        "suspense": null,
-                        "target": null,
-                        "targetAnchor": null,
-                        "transition": null,
-                        "type": Symbol(Text),
-                      },
-                    ],
-                    "component": null,
-                    "ctx": [Circular],
-                    "dirs": null,
-                    "dynamicChildren": null,
-                    "dynamicProps": null,
-                    "el": <span
+                    </address>
+                    <span
                       aria-label="phone"
                       class="inline-flex"
                       data-v-500ec100=""
@@ -2170,157 +2478,17 @@ Germany
                         />
                       </svg>
                       +494057283299
-                    </span>,
-                    "key": null,
-                    "patchFlag": 0,
-                    "props": {
-                      "aria-label": "phone",
-                      "class": "inline-flex",
-                    },
-                    "ref": null,
-                    "scopeId": "data-v-500ec100",
-                    "shapeFlag": 17,
-                    "slotScopeIds": null,
-                    "ssContent": null,
-                    "ssFallback": null,
-                    "staticCount": 0,
-                    "suspense": null,
-                    "target": null,
-                    "targetAnchor": null,
-                    "transition": null,
-                    "type": "span",
-                  },
-                  {
-                    "__v_isVNode": true,
-                    "__v_skip": true,
-                    "anchor": null,
-                    "appContext": null,
-                    "children": null,
-                    "component": null,
-                    "ctx": [Circular],
-                    "dirs": null,
-                    "dynamicChildren": null,
-                    "dynamicProps": [
-                      "src",
-                      "alt",
-                    ],
-                    "el": <img
+                    </span>
+                  </section>
+                  <div
+                    data-v-500ec100=""
+                  >
+                    <img
                       alt="Billy The Butcher"
                       data-v-500ec100=""
                       src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
-                    />,
-                    "key": null,
-                    "patchFlag": 8,
-                    "props": {
-                      "alt": "Billy The Butcher",
-                      "src": "https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg",
-                    },
-                    "ref": null,
-                    "scopeId": "data-v-500ec100",
-                    "shapeFlag": 1,
-                    "slotScopeIds": null,
-                    "ssContent": null,
-                    "ssFallback": null,
-                    "staticCount": 0,
-                    "suspense": null,
-                    "target": null,
-                    "targetAnchor": null,
-                    "transition": null,
-                    "type": "img",
-                  },
-                ],
-                "component": null,
-                "ctx": [Circular],
-                "dirs": null,
-                "dynamicChildren": null,
-                "dynamicProps": null,
-                "el": <section
-                  class="main-info"
-                  data-v-500ec100=""
-                >
-                  <h2
-                    data-v-500ec100=""
-                  >
-                    <a
-                      data-v-500ec100=""
-                      href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-                      target="_blank"
-                    >
-                      Billy The Butcher
-                    </a>
-                  </h2>
-                  <span
-                    aria-label="total-rating"
-                    data-v-500ec100=""
-                  >
-                    <strong
-                      data-v-500ec100=""
-                    >
-                      Rating:
-                    </strong>
-                     4
-                  </span>
-                  <address
-                    class="inline-flex"
-                    data-v-500ec100=""
-                  >
-                    <svg
-                      aria-label="Location"
-                      class="icon-container"
-                      data-v-4b61d232=""
-                      data-v-500ec100=""
-                      role="img"
-                      viewBox="0 0 24 24"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        class="icon"
-                        d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
-                        data-v-4b61d232=""
-                      />
-                      <path
-                        d="M0 0h24v24H0z"
-                        data-v-4b61d232=""
-                        fill="none"
-                      />
-                    </svg>
-                    Jungfernstieg 16 - 20
-4. OG
-20354 Hamburg
-Germany
-                  </address>
-                  <span
-                    aria-label="phone"
-                    class="inline-flex"
-                    data-v-500ec100=""
-                  >
-                    <svg
-                      aria-label="Phone"
-                      class="icon-container"
-                      data-v-500ec100=""
-                      data-v-cb1c54ac=""
-                      role="img"
-                      viewBox="0 0 24 24"
-                      xmlns="http://www.w3.org/2000/svg"
-                    >
-                      <path
-                        d="M0 0h24v24H0z"
-                        data-v-cb1c54ac=""
-                        fill="none"
-                      />
-                      <path
-                        class="icon"
-                        d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                        data-v-cb1c54ac=""
-                      />
-                    </svg>
-                    +494057283299
-                  </span>
-                  <img
-                    alt="Billy The Butcher"
-                    data-v-500ec100=""
-                    src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
-                  />
+                    />
+                  </div>
                 </section>,
                 "key": null,
                 "patchFlag": 0,
@@ -3618,89 +3786,98 @@ Germany,
                 class="main-info"
                 data-v-500ec100=""
               >
-                <h2
+                <section
+                  class="main-text"
                   data-v-500ec100=""
                 >
-                  <a
-                    data-v-500ec100=""
-                    href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-                    target="_blank"
-                  >
-                    Billy The Butcher
-                  </a>
-                </h2>
-                <span
-                  aria-label="total-rating"
-                  data-v-500ec100=""
-                >
-                  <strong
+                  <h2
                     data-v-500ec100=""
                   >
-                    Rating:
-                  </strong>
-                   4
-                </span>
-                <address
-                  class="inline-flex"
-                  data-v-500ec100=""
-                >
-                  <svg
-                    aria-label="Location"
-                    class="icon-container"
-                    data-v-4b61d232=""
+                    <a
+                      data-v-500ec100=""
+                      href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                      target="_blank"
+                    >
+                      Billy The Butcher
+                    </a>
+                  </h2>
+                  <span
+                    aria-label="total-rating"
                     data-v-500ec100=""
-                    role="img"
-                    viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg"
                   >
-                    <path
-                      class="icon"
-                      d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                    <strong
+                      data-v-500ec100=""
+                    >
+                      Rating:
+                    </strong>
+                     4
+                  </span>
+                  <address
+                    class="inline-flex"
+                    data-v-500ec100=""
+                  >
+                    <svg
+                      aria-label="Location"
+                      class="icon-container"
                       data-v-4b61d232=""
-                    />
-                    <path
-                      d="M0 0h24v24H0z"
-                      data-v-4b61d232=""
-                      fill="none"
-                    />
-                  </svg>
-                  Jungfernstieg 16 - 20
+                      data-v-500ec100=""
+                      role="img"
+                      viewBox="0 0 24 24"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        class="icon"
+                        d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                        data-v-4b61d232=""
+                      />
+                      <path
+                        d="M0 0h24v24H0z"
+                        data-v-4b61d232=""
+                        fill="none"
+                      />
+                    </svg>
+                    Jungfernstieg 16 - 20
 4. OG
 20354 Hamburg
 Germany
-                </address>
-                <span
-                  aria-label="phone"
-                  class="inline-flex"
+                  </address>
+                  <span
+                    aria-label="phone"
+                    class="inline-flex"
+                    data-v-500ec100=""
+                  >
+                    <svg
+                      aria-label="Phone"
+                      class="icon-container"
+                      data-v-500ec100=""
+                      data-v-cb1c54ac=""
+                      role="img"
+                      viewBox="0 0 24 24"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M0 0h24v24H0z"
+                        data-v-cb1c54ac=""
+                        fill="none"
+                      />
+                      <path
+                        class="icon"
+                        d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                        data-v-cb1c54ac=""
+                      />
+                    </svg>
+                    +494057283299
+                  </span>
+                </section>
+                <div
                   data-v-500ec100=""
                 >
-                  <svg
-                    aria-label="Phone"
-                    class="icon-container"
+                  <img
+                    alt="Billy The Butcher"
                     data-v-500ec100=""
-                    data-v-cb1c54ac=""
-                    role="img"
-                    viewBox="0 0 24 24"
-                    xmlns="http://www.w3.org/2000/svg"
-                  >
-                    <path
-                      d="M0 0h24v24H0z"
-                      data-v-cb1c54ac=""
-                      fill="none"
-                    />
-                    <path
-                      class="icon"
-                      d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                      data-v-cb1c54ac=""
-                    />
-                  </svg>
-                  +494057283299
-                </span>
-                <img
-                  alt="Billy The Butcher"
-                  data-v-500ec100=""
-                  src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
-                />
+                    src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
+                  />
+                </div>
               </section>
               <!--v-if-->
             </div>,
@@ -3820,89 +3997,98 @@ Germany
             class="main-info"
             data-v-500ec100=""
           >
-            <h2
+            <section
+              class="main-text"
               data-v-500ec100=""
             >
-              <a
-                data-v-500ec100=""
-                href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-                target="_blank"
-              >
-                Billy The Butcher
-              </a>
-            </h2>
-            <span
-              aria-label="total-rating"
-              data-v-500ec100=""
-            >
-              <strong
+              <h2
                 data-v-500ec100=""
               >
-                Rating:
-              </strong>
-               4
-            </span>
-            <address
-              class="inline-flex"
-              data-v-500ec100=""
-            >
-              <svg
-                aria-label="Location"
-                class="icon-container"
-                data-v-4b61d232=""
+                <a
+                  data-v-500ec100=""
+                  href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                  target="_blank"
+                >
+                  Billy The Butcher
+                </a>
+              </h2>
+              <span
+                aria-label="total-rating"
                 data-v-500ec100=""
-                role="img"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
               >
-                <path
-                  class="icon"
-                  d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                <strong
+                  data-v-500ec100=""
+                >
+                  Rating:
+                </strong>
+                 4
+              </span>
+              <address
+                class="inline-flex"
+                data-v-500ec100=""
+              >
+                <svg
+                  aria-label="Location"
+                  class="icon-container"
                   data-v-4b61d232=""
-                />
-                <path
-                  d="M0 0h24v24H0z"
-                  data-v-4b61d232=""
-                  fill="none"
-                />
-              </svg>
-              Jungfernstieg 16 - 20
+                  data-v-500ec100=""
+                  role="img"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    class="icon"
+                    d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                    data-v-4b61d232=""
+                  />
+                  <path
+                    d="M0 0h24v24H0z"
+                    data-v-4b61d232=""
+                    fill="none"
+                  />
+                </svg>
+                Jungfernstieg 16 - 20
 4. OG
 20354 Hamburg
 Germany
-            </address>
-            <span
-              aria-label="phone"
-              class="inline-flex"
+              </address>
+              <span
+                aria-label="phone"
+                class="inline-flex"
+                data-v-500ec100=""
+              >
+                <svg
+                  aria-label="Phone"
+                  class="icon-container"
+                  data-v-500ec100=""
+                  data-v-cb1c54ac=""
+                  role="img"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    data-v-cb1c54ac=""
+                    fill="none"
+                  />
+                  <path
+                    class="icon"
+                    d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                    data-v-cb1c54ac=""
+                  />
+                </svg>
+                +494057283299
+              </span>
+            </section>
+            <div
               data-v-500ec100=""
             >
-              <svg
-                aria-label="Phone"
-                class="icon-container"
+              <img
+                alt="Billy The Butcher"
                 data-v-500ec100=""
-                data-v-cb1c54ac=""
-                role="img"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 0h24v24H0z"
-                  data-v-cb1c54ac=""
-                  fill="none"
-                />
-                <path
-                  class="icon"
-                  d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                  data-v-cb1c54ac=""
-                />
-              </svg>
-              +494057283299
-            </span>
-            <img
-              alt="Billy The Butcher"
-              data-v-500ec100=""
-              src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
-            />
+                src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
+              />
+            </div>
           </section>
           <!--v-if-->
         </div>,
@@ -4085,89 +4271,98 @@ Germany",
             class="main-info"
             data-v-500ec100=""
           >
-            <h2
+            <section
+              class="main-text"
               data-v-500ec100=""
             >
-              <a
-                data-v-500ec100=""
-                href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-                target="_blank"
-              >
-                Billy The Butcher
-              </a>
-            </h2>
-            <span
-              aria-label="total-rating"
-              data-v-500ec100=""
-            >
-              <strong
+              <h2
                 data-v-500ec100=""
               >
-                Rating:
-              </strong>
-               4
-            </span>
-            <address
-              class="inline-flex"
-              data-v-500ec100=""
-            >
-              <svg
-                aria-label="Location"
-                class="icon-container"
-                data-v-4b61d232=""
+                <a
+                  data-v-500ec100=""
+                  href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+                  target="_blank"
+                >
+                  Billy The Butcher
+                </a>
+              </h2>
+              <span
+                aria-label="total-rating"
                 data-v-500ec100=""
-                role="img"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
               >
-                <path
-                  class="icon"
-                  d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                <strong
+                  data-v-500ec100=""
+                >
+                  Rating:
+                </strong>
+                 4
+              </span>
+              <address
+                class="inline-flex"
+                data-v-500ec100=""
+              >
+                <svg
+                  aria-label="Location"
+                  class="icon-container"
                   data-v-4b61d232=""
-                />
-                <path
-                  d="M0 0h24v24H0z"
-                  data-v-4b61d232=""
-                  fill="none"
-                />
-              </svg>
-              Jungfernstieg 16 - 20
+                  data-v-500ec100=""
+                  role="img"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    class="icon"
+                    d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+                    data-v-4b61d232=""
+                  />
+                  <path
+                    d="M0 0h24v24H0z"
+                    data-v-4b61d232=""
+                    fill="none"
+                  />
+                </svg>
+                Jungfernstieg 16 - 20
 4. OG
 20354 Hamburg
 Germany
-            </address>
-            <span
-              aria-label="phone"
-              class="inline-flex"
+              </address>
+              <span
+                aria-label="phone"
+                class="inline-flex"
+                data-v-500ec100=""
+              >
+                <svg
+                  aria-label="Phone"
+                  class="icon-container"
+                  data-v-500ec100=""
+                  data-v-cb1c54ac=""
+                  role="img"
+                  viewBox="0 0 24 24"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M0 0h24v24H0z"
+                    data-v-cb1c54ac=""
+                    fill="none"
+                  />
+                  <path
+                    class="icon"
+                    d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+                    data-v-cb1c54ac=""
+                  />
+                </svg>
+                +494057283299
+              </span>
+            </section>
+            <div
               data-v-500ec100=""
             >
-              <svg
-                aria-label="Phone"
-                class="icon-container"
+              <img
+                alt="Billy The Butcher"
                 data-v-500ec100=""
-                data-v-cb1c54ac=""
-                role="img"
-                viewBox="0 0 24 24"
-                xmlns="http://www.w3.org/2000/svg"
-              >
-                <path
-                  d="M0 0h24v24H0z"
-                  data-v-cb1c54ac=""
-                  fill="none"
-                />
-                <path
-                  class="icon"
-                  d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-                  data-v-cb1c54ac=""
-                />
-              </svg>
-              +494057283299
-            </span>
-            <img
-              alt="Billy The Butcher"
-              data-v-500ec100=""
-              src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
-            />
+                src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
+              />
+            </div>
           </section>
           <!--v-if-->
         </div>,
@@ -4480,89 +4675,98 @@ Germany",
       class="main-info"
       data-v-500ec100=""
     >
-      <h2
+      <section
+        class="main-text"
         data-v-500ec100=""
       >
-        <a
-          data-v-500ec100=""
-          href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
-          target="_blank"
-        >
-          Billy The Butcher
-        </a>
-      </h2>
-      <span
-        aria-label="total-rating"
-        data-v-500ec100=""
-      >
-        <strong
+        <h2
           data-v-500ec100=""
         >
-          Rating:
-        </strong>
-         4
-      </span>
-      <address
-        class="inline-flex"
-        data-v-500ec100=""
-      >
-        <svg
-          aria-label="Location"
-          class="icon-container"
-          data-v-4b61d232=""
+          <a
+            data-v-500ec100=""
+            href="https://www.yelp.com/biz/billy-the-butcher-hamburg-2?adjust_creative=nMAD8ywU1QBl_RMSM215Bg&utm_campaign=yelp_api_v3&utm_medium=api_v3_graphql&utm_source=nMAD8ywU1QBl_RMSM215Bg"
+            target="_blank"
+          >
+            Billy The Butcher
+          </a>
+        </h2>
+        <span
+          aria-label="total-rating"
           data-v-500ec100=""
-          role="img"
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
         >
-          <path
-            class="icon"
-            d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+          <strong
+            data-v-500ec100=""
+          >
+            Rating:
+          </strong>
+           4
+        </span>
+        <address
+          class="inline-flex"
+          data-v-500ec100=""
+        >
+          <svg
+            aria-label="Location"
+            class="icon-container"
             data-v-4b61d232=""
-          />
-          <path
-            d="M0 0h24v24H0z"
-            data-v-4b61d232=""
-            fill="none"
-          />
-        </svg>
-        Jungfernstieg 16 - 20
+            data-v-500ec100=""
+            role="img"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              class="icon"
+              d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"
+              data-v-4b61d232=""
+            />
+            <path
+              d="M0 0h24v24H0z"
+              data-v-4b61d232=""
+              fill="none"
+            />
+          </svg>
+          Jungfernstieg 16 - 20
 4. OG
 20354 Hamburg
 Germany
-      </address>
-      <span
-        aria-label="phone"
-        class="inline-flex"
+        </address>
+        <span
+          aria-label="phone"
+          class="inline-flex"
+          data-v-500ec100=""
+        >
+          <svg
+            aria-label="Phone"
+            class="icon-container"
+            data-v-500ec100=""
+            data-v-cb1c54ac=""
+            role="img"
+            viewBox="0 0 24 24"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M0 0h24v24H0z"
+              data-v-cb1c54ac=""
+              fill="none"
+            />
+            <path
+              class="icon"
+              d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
+              data-v-cb1c54ac=""
+            />
+          </svg>
+          +494057283299
+        </span>
+      </section>
+      <div
         data-v-500ec100=""
       >
-        <svg
-          aria-label="Phone"
-          class="icon-container"
+        <img
+          alt="Billy The Butcher"
           data-v-500ec100=""
-          data-v-cb1c54ac=""
-          role="img"
-          viewBox="0 0 24 24"
-          xmlns="http://www.w3.org/2000/svg"
-        >
-          <path
-            d="M0 0h24v24H0z"
-            data-v-cb1c54ac=""
-            fill="none"
-          />
-          <path
-            class="icon"
-            d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z"
-            data-v-cb1c54ac=""
-          />
-        </svg>
-        +494057283299
-      </span>
-      <img
-        alt="Billy The Butcher"
-        data-v-500ec100=""
-        src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
-      />
+          src="https://s3-media2.fl.yelpcdn.com/bphoto/RDKmsxZZczP4EiTCB9AYOw/o.jpg"
+        />
+      </div>
     </section>
     <!--v-if-->
   </div>,

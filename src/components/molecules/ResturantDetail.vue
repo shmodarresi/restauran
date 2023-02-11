@@ -26,20 +26,23 @@ export default defineComponent({
   <div class="restaurant-detail">
     <button @click="handleBack"><IconArrow /> back</button>
     <section class="main-info">
-      <h2>
-        <a :href="restaurant.url" target="_blank">{{ restaurant.name }}</a>
-      </h2>
-      <span aria-label="total-rating"
-        ><strong>Rating:</strong> {{ restaurant.rating }}</span
-      >
-      <address class="inline-flex">
-        <IconMarker />{{ restaurant.location.formatted_address }}
-      </address>
-      <span aria-label="phone" class="inline-flex"
-        ><IconPhone />{{ restaurant.phone }}</span
-      >
-
-      <img :src="restaurant.photos[0]" :alt="restaurant.name" />
+      <section class="main-text">
+        <h2>
+          <a :href="restaurant.url" target="_blank">{{ restaurant.name }}</a>
+        </h2>
+        <span aria-label="total-rating"
+          ><strong>Rating:</strong> {{ restaurant.rating }}</span
+        >
+        <address class="inline-flex">
+          <IconMarker />{{ restaurant.location.formatted_address }}
+        </address>
+        <span aria-label="phone" class="inline-flex"
+          ><IconPhone />{{ restaurant.phone }}</span
+        >
+      </section>
+      <div>
+        <img :src="restaurant.photos[0]" :alt="restaurant.name" />
+      </div>
     </section>
     <template v-if="restaurant.reviews && restaurant.reviews.length > 0">
       <h3>Reviews</h3>
@@ -57,18 +60,19 @@ export default defineComponent({
 <style scoped>
 .main-info {
   display: grid;
-  grid-template-columns: auto 20%;
-  grid-template-rows: repeat(4, auto);
-  row-gap: var(--section-gap);
+  grid-template-columns: auto 30%;
+}
+.main-info > *:not(.main-text) {
+  grid-column: 2;
 }
 
-.main-info > *:not(img) {
-  grid-column: 1;
-}
-.main-info img {
-  grid-column: 2;
-  grid-row: 1 / 5;
+img {
   max-width: 100%;
+  max-height: 100%;
+}
+.main-text {
+  display: grid;
+  grid-gap: var(--section-gap);
 }
 .restaurant-detail {
   padding: 2rem;
