@@ -23,12 +23,6 @@ address {
   font-style: normal;
 }
 
-@media (min-width: 1024px) {
-  body {
-    display: flex;
-  }
-}
-
 .inline-flex {
   display: inline-flex;
   align-items: center;

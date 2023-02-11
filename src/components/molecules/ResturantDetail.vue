@@ -64,15 +64,17 @@ export default defineComponent({
 }
 .main-info > *:not(.main-text) {
   grid-column: 2;
+  justify-self: end;
 }
 
 img {
   max-width: 100%;
-  max-height: 100%;
+  max-height: 200px;
 }
 .main-text {
   display: grid;
   grid-gap: var(--section-gap);
+  align-self: baseline;
 }
 .restaurant-detail {
   padding: 2rem;
